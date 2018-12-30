@@ -5,3 +5,6 @@
 * Golang
 * Promethues
 * Etcd
+
+[jukylin blog](https://github.com/jukylin/blog)
+[go-concurrency](https://github.com/cizixs/go-concurrency-programming/blob/master/SUMMARY.md)
