@@ -1,5 +1,7 @@
 ### 学习记录
 
+* CS基础知识
 * Kubernetes
 * Golang
-* CS基础知识
+* Promethues
+* Etcd
