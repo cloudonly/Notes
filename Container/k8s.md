@@ -1,6 +1,6 @@
 ### Kubernetes
 
-##### Pod Probe(探针)
+#### Pod Probe(探针)
 * Liveliness
   
 * Readiness
@@ -16,6 +16,7 @@ ReadinessProbe也称就绪探针，检查容器提供的服务是否能正常访
 4. 在“就绪”检查里实现逻辑，以便检查应用程序的准备情况的详情
 
 
+#### 参考资料
 * [client-go & controller](https://mp.weixin.qq.com/s/Hz2UqcrOGwa0w_ag_Ww2rA)
 * [k8s网络动态](https://mp.weixin.qq.com/s/G4OvFTp5SUvtF8uuSqIcrg)
 
