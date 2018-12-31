@@ -1,7 +1,7 @@
 ### 学习记录
 
 * [Etcd](etcd.md)
-* [InfluxDB](influxdb.md)
+* [TSDB](TSDB.md)
 * [NSQ](nsq.md)
 * [Prometheus](promethues.md)
 
