@@ -8,5 +8,6 @@
 
 * [Golang-调度分析](https://mp.weixin.qq.com/s/LaGgKaSMCbKuxAaFuU9b6Q)
 
-
+#### 参考资料
 * [go-best-practices](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
+* [go-concurrency](https://github.com/cizixs/go-concurrency-programming/blob/master/SUMMARY.md)
