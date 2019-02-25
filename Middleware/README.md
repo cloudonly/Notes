@@ -3,7 +3,7 @@
 * [Etcd](etcd.md)
 * [TSDB](TSDB.md)
 * [NSQ](nsq.md)
-* [Prometheus](promethues.md)
+* [Prometheus](prometheus.md)
 
 
 ##### 参考资料

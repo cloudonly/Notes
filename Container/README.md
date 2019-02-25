@@ -1,5 +1,5 @@
 ### 学习记录
 
 
-* [Docker](docker.md)
-* [Kubernetes](k8s.md)
+* [Docker](docker/docker.md)
+* [Kubernetes](kubernetes/k8s.md)
