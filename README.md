@@ -17,6 +17,4 @@
 
 #### About Me
  * MAIL: enrondg@gmail.com
- * 本科自动化专业
- * 做过Cloud SE， 参与过OpenStack售前/交付/售后、解决方案等相关的工作
- * 后转Dev， 参与过CMP编排、监控系统相关的开发运维
+ * 参与过私有云建设, CMP编排开发, 监控系统开发运维等
