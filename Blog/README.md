@@ -8,6 +8,7 @@
 * [J.W.](https://jingwei.link/)
 * [qiankunli k8s源码学习](http://qiankunli.github.io)
 * [Masutangu](http://masutangu.com/)
+* [饶全成--码农桃花源](https://www.cnblogs.com/qcrao-2018/)
 
 #### Microservice
 
@@ -17,6 +18,13 @@
 #### TSDB
 
 * [RRD简介及操作](http://blog.qiji.tech/archives/14276)
+
+#### Web
+
+* [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
+![Web架构图](../images/web_app_arch.png)
+  
 
 #### 经典书籍
 

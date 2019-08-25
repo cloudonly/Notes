@@ -11,3 +11,4 @@
 #### 参考资料
 * [go-best-practices](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 * [go-concurrency](https://github.com/cizixs/go-concurrency-programming/blob/master/SUMMARY.md)
+* [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
